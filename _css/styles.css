@@ -1,0 +1,97 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+}
+
+/**, *:before, *:after {
+  box-sizing: inherit;
+}*/
+
+
+body {
+  width: 60%;
+  margin: 1rem auto;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: rgb(32, 33, 36);
+}
+
+section{
+  font-size: 1.5em;
+}
+
+
+h1{
+  font-size: 3.3em;
+}
+
+h2{
+  font-size: 2.3em;
+}
+
+h3{
+  font-size: 1.5em;
+}
+
+#subs{
+  font-size: 0.6em;
+}
+
+.links{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 330px;
+  width: 221px;
+}
+
+#imageLinks{
+  text-align:center;
+}
+
+.noise{
+  position:absolute;
+  top: 0;
+  right: 0;
+}
+
+a:link{
+  color: cyan;  
+}
+
+a:visited{
+  color: magenta;
+}
+
+a:active{
+  color: red;
+}
+
+a:hover{
+  color: pink;
+}
+
+blockquote{
+  background: blue;
+  width: 66%;
+  margin: auto auto;
+  padding: 10px;
+}
+
+#mountain{
+  width: 60%;
+}
+
+#Todd{
+  width: 20%;
+}
+
+#hotas{
+  width: 40%;
+}
+
+#cuteFish{
+  width: 25%;
+}
