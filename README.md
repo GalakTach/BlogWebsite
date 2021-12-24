@@ -23,7 +23,7 @@ https://store.steampowered.com/app/264710/Subnautica/
 https://doom.fandom.com/wiki/SPISPOPD
 
 
-
+---
 For clickable image navigation:
 
 area : Defines an area inside an image map that has predefined clickable areas. The <map> element must be used to define the clickable area. This area can then be associated with a link
@@ -38,7 +38,7 @@ audio : Used to embed sound content. It can contain one or more audio sources
 autoplay : Does what it says on the tin. If this attribute is used, the embedded audio will play immediately on page load
 
 -----------------------------------
-For some quotes
+For some quotes:
   
 blockquote : Indicates the enclosed text is an extended quotation. Can be given a background with CSS to separate it from the rest of the page
   
