@@ -1,4 +1,7 @@
-cited sources:
+#Blog Website
+ A website just for fun and practice
+
+#Sources:
 
 [doot](https://www.youtube.com/watch?v=hzPpWInAiOg)
 
